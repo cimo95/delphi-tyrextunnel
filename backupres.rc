@@ -1,0 +1,7 @@
+bgm RCData "aset\bgm.mp3"
+jd RCData "aset\jd.bmp"
+ju RCData "aset\ju.bmp"
+k RCData "aset\k.bmp"
+t RCData "aset\t.bmp"
+tl RCData "aset\tl.bmp"
+tr RCData "aset\tr.bmp"
