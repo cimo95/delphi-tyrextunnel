@@ -68,9 +68,9 @@ begin
   Result := fs0;
 end;
 
-function f1(sNamaRes: string): ttrs0;
+function f1(fs0: string): ttrs0;
 begin
-  result := TResourceStream.Create(HInstance, sNamaRes, RT_RCDATA);
+  result := TResourceStream.Create(HInstance, fs0, RT_RCDATA);
 end;
 
 function f2(fs0: string; fc0: Char; fi0: Integer): string;
